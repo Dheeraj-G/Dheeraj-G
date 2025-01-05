@@ -4,7 +4,7 @@ Through my various experiences including sketching, reading, rock climbing, and 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dheeraj-g&size_weight=0.5&count_weight=0.5&theme=dark)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dheeraj-g&show_icons=true&theme=dark)
 <!--
 **Dheeraj-G/Dheeraj-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
