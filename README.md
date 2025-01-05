@@ -2,7 +2,7 @@ Hi, I'm Dheeraj! 👋
 
 Through my various experiences including sketching, reading, rock climbing, and software development, I discovered a passion for harnessing creativity to drive meaningful change. I aspire to apply my academic knowledge, innovative mindset, and passion for technology to create impactful solutions that make a positive difference in those around me. Feel free to reach out to me via email- gosuladheeraj@gmail.com
 
-Some Stats :chart_with_upwards_trend:
+My Stats :chart_with_upwards_trend:
 
 <a href="https://github.com/dheeraj-g/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dheeraj-g&theme=dark&show_icons=true" />
