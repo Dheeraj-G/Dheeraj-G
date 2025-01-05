@@ -5,10 +5,10 @@ Through my various experiences including sketching, reading, rock climbing, and 
 Some Stats :chart_with_upwards_trend:
 
 <a href="https://github.com/dheeraj-g/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dheeraj-g&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dheeraj-g&theme=radical&show_icons=true" />
 </a>
 <a href="https://github.com/dheeraj-g/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dheeraj-g&layout=compact&langs_count=8&card_width=320&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dheeraj-g&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
 <!--
 **Dheeraj-G/Dheeraj-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
