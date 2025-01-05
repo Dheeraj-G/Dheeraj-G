@@ -1,5 +1,6 @@
-## Hi there 👋
+Hi, I'm Dheeraj!
 
+Through my diverse experiences in sketching, reading, rock climbing, and software development, I discovered a passion for harnessing creativity to drive meaningful change. I aspire to apply my academic knowledge, innovative mindset, and passion for technology to create impactful solutions that make a positive difference in those around me. Feel free to reach out to me at gosuladheeraj@gmail.com!
 <!--
 **Dheeraj-G/Dheeraj-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
